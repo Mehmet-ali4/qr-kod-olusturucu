@@ -1,1 +1,0 @@
-java -jar qr.jar
